@@ -1,0 +1,6 @@
+[package]
+name = "prettier"
+version = "0.1.0"
+authors = ["LightDiscord <arnaud@lightdiscord.me>"]
+
+[dependencies]
